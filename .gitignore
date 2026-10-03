@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Lingkungan virtual (jika ada)
+venv/
+env/
+.env
+
+# Folder Output Scraper
+# (Penting: Kita tidak mengunggah hasil scrape dan chrome_profile ke GitHub)
+output/
+logs/
+diagnostic_output/
+*.xlsx
+*.csv

@@ -1,0 +1,8 @@
+{
+  "google_maps_url": "https://maps.app.goo.gl/p5ybQRvDtJxicFCs9",
+  "output_filename": "google_maps_reviews.xlsx",
+  "max_reviews": 0,
+  "headless": false,
+  "scroll_pause": 0.5,
+  "max_scroll_attempts_without_new_reviews": 10
+}
